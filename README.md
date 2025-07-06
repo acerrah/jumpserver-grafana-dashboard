@@ -2,6 +2,10 @@
 
 This project provides a ready-to-use Grafana dashboard and automation scripts for auditing Jumpserver environments. It supports both MySQL and PostgreSQL backends and offers comprehensive visualizations of user activity, session history, command risk, and more.
 
+## Jumpserver References
+- [Jumpserver Official Documentation](https://docs.jumpserver.org/)
+- [Jumpserver GitHub Repository](https://github.com/jumpserver/jumpserver)
+
 ## Features
 - **Automated Grafana setup** via shell scripts
 - **Dashboard import** for both MySQL and PostgreSQL
